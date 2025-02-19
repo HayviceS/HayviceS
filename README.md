@@ -13,7 +13,7 @@ In the past I have worked on a few different things such as:
 I take digi tech because I like to solve problems. During class for me it is fun to put in my headphones and get right into my work. I find it satisfying to see what I have made from scratch and the progress I have made along the way.
 
 ### Websites I use
-+ Scatch
++ Scratch
 + Visual code studio
 + Blender
 + GitHub
