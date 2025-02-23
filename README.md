@@ -3,7 +3,7 @@
 ## About me 
 I am a year 11 student based in Auckland. I have a family of six, 2 parents, 2 sisters, and a twin. In my free time I tend to bake, read, work out, or hang out with friends. I am quite a social person however I do enjoy my time alone and I am very indepentent. 
 
-#### Past projects
+### Past projects
 In the past I have worked on a few different things such as:
 + 3D Objects
 + A Music Website
@@ -12,7 +12,7 @@ In the past I have worked on a few different things such as:
 ### Why do I do digital technology?
 I take digi tech because I like to solve problems. During class for me it is fun to put in my headphones and get right into my work. I find it satisfying to see what I have made from scratch and the progress I have made along the way.
 
-##### Websites I use
+### Websites I use
 + Scratch
 + Visual code studio
 + Blender
